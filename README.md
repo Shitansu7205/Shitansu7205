@@ -6,9 +6,10 @@
 - 🧠 Passionate about **Full Stack Development**
 - 🛠️ Building modern web apps using **Next.js, MongoDB, Firebase**
 - 🔄 Exploring **DevOps, GCP, and AWS**
-- 🌐 Founder at [**The Tech Tide**](https://thetechtide.site)
+- 💼 Currently working at [**BookingJini**](https://bookingjini.com)
 - 💬 Loves discussing code, startups, & tech
-- 📫 Reach me on Instagram: [@techtide_community](https://instagram.com/techtide_community)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shitansu-kumar-gochhayat-91b7a5241)
+
 
 ---
 
@@ -19,7 +20,13 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-F54E53?style=for-the-badge&logo=n8n&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
